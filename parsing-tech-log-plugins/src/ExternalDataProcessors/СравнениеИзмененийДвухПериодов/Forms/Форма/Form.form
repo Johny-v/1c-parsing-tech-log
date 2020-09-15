@@ -561,7 +561,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.СравнениеИзмененийДвухПериодов</types>
+      <types>ExternalDataProcessor.СравнениеИзмененийДвухПериодов</types>
     </valueType>
     <view>
       <common>true</common>
@@ -689,9 +689,6 @@
     <edit>
       <common>true</common>
     </edit>
-    <settingsSavedData xsi:type="form:DataPath">
-      <segments>Замер</segments>
-    </settingsSavedData>
   </attributes>
   <formCommands>
     <name>Вперед</name>
